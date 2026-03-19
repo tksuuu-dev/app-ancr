@@ -1,4 +1,4 @@
-# Ancr [  ] (macOS)
+# Ancr (macOS)
 
 このリポジトリは配布専用です。
 
